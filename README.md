@@ -1,2 +1,2 @@
 # cyclistic-bike-share-analysis
-Google Data Analytics capstone project exploring differences between annual members and casual riders through SQL analysis and Tableau dashboards.
+This project analyzes 5.9 million bike-share trips from Cyclistic to understand how annual members and casual riders use the service differently. Using Google BigQuery for data cleaning and analysis and Tableau for visualization, the project identifies behavioral patterns in ride frequency, ride duration, bike preferences, weekly usage, and seasonal trends. The findings are used to develop data-driven recommendations aimed at increasing annual memberships.
